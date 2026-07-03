@@ -1,7 +1,7 @@
 기본 세팅 
 
 1. nodejs 설치
-2. 프로젝트 폴더에서 cmd 열고
+2. 프로젝트 폴더에서 cmd
 
 npm install
 npx playwright install chromium
