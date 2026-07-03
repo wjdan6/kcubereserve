@@ -1,11 +1,10 @@
-기본 세팅 
+세팅 
 
 1. nodejs 설치
 2. 프로젝트 폴더에서 cmd 실행
 
- npm install
- npx playwright install chromium
-실행
+npm install 입력
+npx playwright install chromium 입력
 
 3. node save-login.js 실행 후 팝업되는 학교 브라우저에서 로그인 후 cmd에서 enter입력. 폴더에 auth.json 생성됐는지 확인
 
